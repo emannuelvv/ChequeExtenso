@@ -1,0 +1,13 @@
+D:\AcademiaProgramador\ChequeExtenso\ChequePorExtenso\bin\Debug\netcoreapp3.1\ChequePorExtenso.exe
+D:\AcademiaProgramador\ChequeExtenso\ChequePorExtenso\bin\Debug\netcoreapp3.1\ChequePorExtenso.deps.json
+D:\AcademiaProgramador\ChequeExtenso\ChequePorExtenso\bin\Debug\netcoreapp3.1\ChequePorExtenso.runtimeconfig.json
+D:\AcademiaProgramador\ChequeExtenso\ChequePorExtenso\bin\Debug\netcoreapp3.1\ChequePorExtenso.runtimeconfig.dev.json
+D:\AcademiaProgramador\ChequeExtenso\ChequePorExtenso\bin\Debug\netcoreapp3.1\ChequePorExtenso.dll
+D:\AcademiaProgramador\ChequeExtenso\ChequePorExtenso\bin\Debug\netcoreapp3.1\ChequePorExtenso.pdb
+D:\AcademiaProgramador\ChequeExtenso\ChequePorExtenso\obj\Debug\netcoreapp3.1\ChequePorExtenso.csprojAssemblyReference.cache
+D:\AcademiaProgramador\ChequeExtenso\ChequePorExtenso\obj\Debug\netcoreapp3.1\ChequePorExtenso.AssemblyInfoInputs.cache
+D:\AcademiaProgramador\ChequeExtenso\ChequePorExtenso\obj\Debug\netcoreapp3.1\ChequePorExtenso.AssemblyInfo.cs
+D:\AcademiaProgramador\ChequeExtenso\ChequePorExtenso\obj\Debug\netcoreapp3.1\ChequePorExtenso.csproj.CoreCompileInputs.cache
+D:\AcademiaProgramador\ChequeExtenso\ChequePorExtenso\obj\Debug\netcoreapp3.1\ChequePorExtenso.dll
+D:\AcademiaProgramador\ChequeExtenso\ChequePorExtenso\obj\Debug\netcoreapp3.1\ChequePorExtenso.pdb
+D:\AcademiaProgramador\ChequeExtenso\ChequePorExtenso\obj\Debug\netcoreapp3.1\ChequePorExtenso.genruntimeconfig.cache
